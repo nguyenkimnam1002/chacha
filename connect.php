@@ -2,7 +2,7 @@
 $server = 'localhost';
 $user = 'root';
 $pass = '';
-$database = 'webtintuc';
+$database = 'chacha';
 
 $conn = mysqli_connect($server, $user, $pass, $database);
 if ($conn) {
